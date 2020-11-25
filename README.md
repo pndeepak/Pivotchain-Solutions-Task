@@ -1,7 +1,7 @@
 # Implementing neural network from scratch using numpy
 
 To view editable version of the notebook click on 'Open in Colab' tab  
-<a href="https://colab.research.google.com/drive/1f0RLDlFc72rLIxaBZHzPFN30HMw6s55d#scrollTo=8g5oZ0eJKT6O" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1f0RLDlFc72rLIxaBZHzPFN30HMw6s55d" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Problem statement
 
